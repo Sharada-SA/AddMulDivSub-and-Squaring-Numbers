@@ -6,8 +6,6 @@ def div():
 	print(a/b)
 def mul():
 	print(a*b)
-def sq():
-	print(a*a)
 
 
 
