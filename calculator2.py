@@ -4,5 +4,8 @@ def sub():
 	print(a-b)
 def div():
 	print(a/b)
+def mul():
+	print(a*b)
+
 
 
